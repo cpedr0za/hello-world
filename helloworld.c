@@ -1,6 +1,6 @@
-#include <stdio.h>
+\#include <stdio.h>
 // git commit
 int main() {
-  printf("Hello, World!\n");
+  printf("Hello world!\n");
 return 0;
 }
